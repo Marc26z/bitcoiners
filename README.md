@@ -1,2 +1,2 @@
 # bitcoiners
-a peer-to-peer electronic cash system guide
+**How To Use Bitcoin As Cash Money**
