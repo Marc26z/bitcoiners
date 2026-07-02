@@ -8,4 +8,4 @@ We need less theory and more hands on bitcoin tools. Therefore I vibe coded a ti
 I put the QR code into https://cartridgeqr.shakespeare.wtf/ and it basically printed me a point of sale printable.
 
 
-[pos](https://raw.githubusercontent.com/Marc26z/bitcoiners/587dbcc6bb9d5b4674ba14cfe2cca9e9912b7f89/assets/Screenshot%202026-07-02%20124201.png)
+![pos](https://raw.githubusercontent.com/Marc26z/bitcoiners/587dbcc6bb9d5b4674ba14cfe2cca9e9912b7f89/assets/Screenshot%202026-07-02%20124201.png)
