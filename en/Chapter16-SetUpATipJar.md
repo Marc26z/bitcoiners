@@ -1,4 +1,10 @@
+![TipJar](https://raw.githubusercontent.com/Marc26z/bitcoiners/615c795656a4bccbe41ba6fa4ace0cc25f0209bc/assets/TipJar.png)
+
 # Chapter 16: Set Up A Tip Jar
+
+
+
+
 
 
 
