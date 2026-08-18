@@ -1,5 +1,4 @@
-# Chapter 5: What Is Fiat Money?
-
+# Chapter2L All Coins Are Timestamped
 
 
 ###### Footnotes
